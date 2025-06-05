@@ -30,7 +30,7 @@ Las dependencias principales incluyen React 19, TypeScript, Vite, TailwindCSS y 
 
 ### 3. Ejecutar en modo desarrollo
 
-````bash
+```bash
 npm run dev
 ```
 `package.json:7`
