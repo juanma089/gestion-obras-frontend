@@ -44,7 +44,7 @@ npm run dev
 
 **Importante**: Este es el frontend del sistema. No maneja base de datos directamente, sino que se conecta a servicios backend externos:
 
-- **Servicio de Usuarios**: `https://github.com/juanma089/login-gestion-obras.git`
+- **Servicio de Usuarios y de login**: `https://github.com/juanma089/login-gestion-obras.git`
 - **API de Gestión**: `https://github.com/juanma089/gestio-obras-backend.git`
 
 Debes asegurarte de que estos servicios backend estén ejecutándose antes de usar la aplicación frontend.
