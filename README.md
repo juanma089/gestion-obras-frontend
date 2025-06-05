@@ -56,4 +56,3 @@ La aplicación se inicializa a través de `index.html` que carga el componente p
 **Notes**
 
 El proyecto utiliza Vite como herramienta de build y desarrollo, lo que proporciona hot reload automático. La aplicación está configurada con React Query para manejo de estado del servidor, autenticación basada en contexto, y soporte para mapas interactivos con Leaflet. Para un funcionamiento completo, necesitarás configurar los servicios backend correspondientes que manejan la lógica de negocio y persistencia de datos.
-````
